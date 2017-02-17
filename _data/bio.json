@@ -78,27 +78,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Salt Lake Elementary School",
+      "position": "Part-time Temporary Teacher",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2015-01-12",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Math tutor for students grades K-6.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provide 1-on-1 and small group instructions to identified students",
+        "Support in-class instruction of materials"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH STAR Technologies",
+      "position": "Computer Support Specialist",
+      "website": "http://www.star.hawaii.edu/",
+      "startDate": "2014-10-01",
+      "endDate": "2016-05-14",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Develop web applications using backend Java models and servlets, YUI 3 JavaScript processing, and frontend HTML and CSS design.",
+        "Troubleshoot issues with applications and perform maintenance tasks."
       ]
     }
   ],
