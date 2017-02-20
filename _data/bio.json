@@ -131,16 +131,22 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Colleges of Arts & Sciences Alumni Association Scholarship",
+      "date": "2012",
+      "awarder": "University of Hawaii Colleges of Arts & Sciences",
+      "summary": "Scholarships awarded to up to two students in the Colleges of Arts & Sciences with a cumulative GPA of at least 2.5, selected by committee members."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "HawaiiUSA Federal Credit Union Scholarship",
+      "date": "2013",
+      "awarder": "HawaiiUSA Federal Credit Union",
+      "summary": "Scholarships awarded to six college students who are also members of the HawaiiUSA FCU, based on Academic Standing, Leadership, Honors and Awards, Community Service, Merit, Recommendations, and Financial Need."
+    },
+    {
+      "title": "Monbukagakusho Scholarship",
+      "date": "2016",
+      "awarder": "The Japanese Ministry of Education, Culture, Sports, Science and Technology",
+      "summary": "Full-Tuition scholarships awarded to students who wish to study in Japan through screening and recommendation by the Japanese Embassy and acceptance by a participating Japanese University."
     }
   ],
   "references": [
