@@ -1,15 +1,13 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/security.jpg
+title: Security System
+permalink: projects/security
+date: 2017
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Raspberry Pi
+summary: Currently developing a personalized home-security system with photoelectric sensors and a Raspberry Pi 3.
 ---
 
 <div class="ui small rounded images">
