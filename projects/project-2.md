@@ -2,15 +2,12 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: eBook Conversion
+permalink: projects/ebook
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Kindle
+summary: Learning how to convert hard-copy books to digital versions.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
