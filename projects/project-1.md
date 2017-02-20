@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/security.jpg
+image: images/security1.jpg
 title: Security System
 permalink: projects/security
 date: 2017
