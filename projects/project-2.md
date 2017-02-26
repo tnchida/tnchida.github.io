@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kindle-square.jpg
+image: images/website-square.png
 title: Remodeling a Website
 permalink: projects/website
 date: 2012
@@ -31,4 +31,4 @@ So my search began to find the best tool for the job to make the slideshow part 
 
 Coming straight out of a class that I took where we learned and implemented a lot of front-end development "best practices", I was eager to use all of those things in this website as well. Attributes such as web responsiveness-- where content and design scale automatically to different screen sizes, font/color scheme readability, grabbing the reader, etc. were qualities that I wanted to have in the website. I quickly got to work implementing all of these practices-- using fonts that were lightweight and readible, making sure that the pages were responsive to all screen sizes, and so on... only to come back to an email from the client asking to change the fonts back to Times New Roman, and to just focus on desktop-sized screen layouts. So, as reluctant as I was to do it, I knew I had to comply. It was at that moment that I realized where the balance of power was. On one hand, the client can request anything they want, but if it's literally not possible, then I have to refuse it, or at least discuss it to come up with a better, feasible solution. On the other hand, no matter how much knowledge and insight I have, if it's not what the client wants, then it's not what the client gets. Unless there are security risks that *need* to be addressed, sometimes it needs to be left out. And that's okay. After all, the client isn't trying to attract new customers or advertise anything, so there's really no downside to it.
 
-*This has been a very brief overview and reflection of my first experience building a website for a customer. The website still goes through minor and major changes periodically. To view the live site, please visit http://chozen-ji.org/*
+*This has been a very brief overview and reflection of my first experience building a website for a customer. The website still goes through minor and major changes periodically. To view the live site, please visit* http://chozen-ji.org/
