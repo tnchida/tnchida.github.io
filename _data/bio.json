@@ -4,7 +4,7 @@
     "label": "Freelancer",
     "picture": "https://tnchida.github.io/images/profile.png",
     "email": "tnchida@gmail.com",
-    "phone": " ",
+    "phone": "808-542-4070",
     "website": "https://tnchida.github.io",
     "summary": "I am a 2014 Bachelor of Science graduate of the Computer Science program at the University of Hawaii at Manoa.",
     "location": {
@@ -67,7 +67,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (2014)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2009-08-01",
       "endDate": "2014-05-14",
@@ -89,10 +89,10 @@
     },
      {
       "institution": "Georgia Institute of Technology, Atlanta, GA",
-      "area": "Computer Science (2019)",
+      "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2017-08-21",
-      "endDate": "TBA",
+      "endDate": "(expected Fall 2019)",
       "gpa": "TBA",
       "courses": [
       ]
