@@ -65,6 +65,16 @@
     }
   ],
   "education": [
+     {
+      "institution": "Georgia Institute of Technology, Atlanta, GA",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2017-08-21",
+      "endDate": "TBA",
+      "gpa": "TBA",
+      "courses": [
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
@@ -76,15 +86,14 @@
         "Java, Program Structure, Discrete Mathematics, Algorithms, Software Engineering, Artificial Intelligence, Database Programming, Bioinformatics, Security/Information Assurance, Microprocessors, Computers in Medicine, Systems Design"
       ]
     },
-     {
-      "institution": "Georgia Institute of Technology, Atlanta, GA",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2017-08-21",
-      "endDate": "TBA",
-      "gpa": "TBA",
-      "courses": [
-      ]
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Music",
+      "studyType": "B.A.",
+      "startDate": "2009-08-01",
+      "endDate": "2014-05-14",
+      "gpa": "4.00",
+      "courses": []
     }
   ],
   "work": [
